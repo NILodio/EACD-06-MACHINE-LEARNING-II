@@ -1,5 +1,5 @@
 course_id = 'EACD-06-MACHINE-LEARNING-II'
-github_repo = 'UDEA-Esp-Analitica-y-Ciencia-de-Datos/%s'%course_id
+github_repo = 'NILodio/%s'%course_id
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
 
 def get_last_modif_date(localdir):
